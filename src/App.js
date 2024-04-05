@@ -32,7 +32,6 @@ const App = () =>{
     setUserId(event.target.value);
   };
 
-  // JSX rendering
   return (
     <section>
       <header>
